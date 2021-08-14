@@ -1,0 +1,12 @@
+li{
+    color: #fff;
+}
+
+.col{
+    display: flex;
+    margin-top: 20px;
+    align-items: center; 
+    margin: auto;
+   margin-left: 188px;
+   margin-top: 20px;
+}
